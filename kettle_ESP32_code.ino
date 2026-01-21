@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL375uyd-l9"
-#define BLYNK_TEMPLATE_NAME "IDTESP32"
-#define BLYNK_AUTH_TOKEN "8N3z2OlezFvO1VmrGgDNyCS8_SoKwmbx"
+#define BLYNK_TEMPLATE_ID "YOUR TEMPLATE ID"
+#define BLYNK_TEMPLATE_NAME "YOUR TEMPLATE NAME"
+#define BLYNK_AUTH_TOKEN "INPUT YOUR AUTH TOKEN HERE"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
@@ -9,8 +9,8 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
-char ssid[] = "sohan";
-char pass[] = "xyz12346";
+char ssid[] = "YOUR WIFI SSID/NAME";
+char pass[] = "WIFI PASSWORD";
 
 #define RELAY_PIN 19
 #define DHT_PIN   18
