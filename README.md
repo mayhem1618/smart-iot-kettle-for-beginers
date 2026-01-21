@@ -55,7 +55,7 @@ Timer-based control
 Manual ON/OFF control
 If rain is detected, the relay is immediately turned OFF regardless of other settings. Once the sensor is dry, control is returned to the previously active mode.
 
-------------------------------------------------------------------WIRING CONNECTIONS--------------------------------------------------------------------------------------
+------------------------------------------------------------------WIRING CONNECTIONS---------------------------------------------------------------
 
 ESP32 Pin Connections
 
