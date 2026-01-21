@@ -38,7 +38,7 @@ DHTesp
 Adafruit SSD1306
 Adafruit GFX
 
---------------------------------------------------------------------HOW THE SYSTEM WORKS----------------------------------------------------
+--------------------------------------------------------------------HOW THE SYSTEM WORKStest----------------------------------------------------
 
 The ESP32 connects to Wi-Fi and the Blynk IoT cloud.
 The DHT11 sensor measures temperature at regular intervals.
