@@ -15,7 +15,7 @@ Rain/moisture safety override
 Real-time OLED display
 Priority-based control logic for safe operation
 
--------------------------------------------------------------------REQUIRED COMPONENTS-----------------------------------------------------------------------------------
+------------------------------------------------------------------------REQUIRED COMPONENTS------------------------------------------------------------------------------
 Hardware Components
 ESP32 development board
 Electric kettle (standard AC kettle)
