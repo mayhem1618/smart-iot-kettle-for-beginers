@@ -1,5 +1,5 @@
 # smart-iot-kettle-for-beginers
-this is a user friendly easy to understand low cost easy to  make project this could be used as a school project or in general for geeks to fiddel around  this project has 2 sensors and 2 output modules and uses blynk iot app as a major control system 
+this is a user friendly easy to understand low cost easy to  make project this could be used as a school project or in general for geeks to fiddel around  this project --has 2 sensors and 2 output modules and uses blynk iot app as a major control system 
 
 This project converts a regular electric kettle into a smart, IoT-enabled appliance using an ESP32 microcontroller. The system adds remote monitoring, automated control, safety features, and local display while retaining the original kettle hardware.
 
@@ -15,7 +15,7 @@ Rain/moisture safety override
 Real-time OLED display
 Priority-based control logic for safe operation
 
---------------------------------------------------------REQUIRED COMPONENTS-------------------------------------------------------------------
+-------------------------------------------------------------------REQUIRED COMPONENTS---------------------------------------------------------------------------
 Hardware Components
 ESP32 development board
 Electric kettle (standard AC kettle)
