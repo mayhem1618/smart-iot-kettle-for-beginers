@@ -38,7 +38,7 @@ DHTesp
 Adafruit SSD1306
 Adafruit GFX
 
----------------------------------------------------------------------------HOW THE SYSTEM WORKS---------------------------------------------------------------------------
+---------------------------------------------------------------------------HOW THE SYSTEM WORKS--------------------------------------------------
 
 The ESP32 connects to Wi-Fi and the Blynk IoT cloud.
 The DHT11 sensor measures temperature at regular intervals.
@@ -55,7 +55,7 @@ Timer-based control
 Manual ON/OFF control
 If rain is detected, the relay is immediately turned OFF regardless of other settings. Once the sensor is dry, control is returned to the previously active mode.
 
-------------------------------------------------------------------WIRING CONNECTIONS---------------------------------------------------------------
+------------------------------------------------------------------WIRING CONNECTIONS------------------------------------------------------------
 
 ESP32 Pin Connections
 
