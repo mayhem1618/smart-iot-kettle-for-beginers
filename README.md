@@ -90,7 +90,7 @@ This ensures the kettle turns ON only when the relay is activated.
 Blynk IoT Setup
 Create a new template in Blynk IoT.
 
---------------------------------------------------------------BLYNK TEMPLATE SETUP-------------------------------------------------------------------
+------------------------------------------------------------BLYNK TEMPLATE SETUP-----------------------------------------------------------------
 
 ADD WIDGETS:-
 Button (V0) for manual ON/OFF
