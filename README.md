@@ -107,7 +107,7 @@ Remaining timer countdown
 Temperature threshold status and notifications
 All information is displayed on a single screen for clarity.
 
------------------------------------------------------------------------USER SAFTEY NOTE-------------------------------------------------------------------------
+----------------------------------------------------------------USER SAFTEY NOTE----------------------------------------------------------------------
 
 Always use a relay module rated for the kettle’s voltage and current.
 Do not power high-voltage loads directly from the ESP32.
